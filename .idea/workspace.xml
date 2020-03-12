@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18ed6a64-64c7-4339-bec6-f862c79c4bb0" name="Default Changelist" comment="">
+    <list default="true" id="18ed6a64-64c7-4339-bec6-f862c79c4bb0" name="Default Changelist" comment="" />
+    <list id="e92c6fe3-6382-490f-bb1d-4fb456145715" name="数组作为参数传递给方法" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DateDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Puppy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ScannerDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestArray.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,7 +20,20 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,11 +57,11 @@
         <option value="$PROJECT_DIR$/src/main/java/StringDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Puppy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArrayDemo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/DateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ScannerDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArrayDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayDemo1.java" />
       </list>
     </option>
   </component>
@@ -104,12 +108,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583979128054" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583981862055" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -127,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayDemo2">
+  <component name="RunManager" selected="Application.ArrayDemo1">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
       <module name="net.jsxdt.liqing.liqing.main" />
@@ -165,10 +169,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDemo1" />
         <item itemvalue="Application.ArrayDemo2" />
         <item itemvalue="Application.ScannerDemo" />
         <item itemvalue="Application.DateDemo" />
-        <item itemvalue="Application.ArrayDemo1" />
         <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
@@ -179,6 +183,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="18ed6a64-64c7-4339-bec6-f862c79c4bb0" name="Default Changelist" comment="" />
+      <changelist id="e92c6fe3-6382-490f-bb1d-4fb456145715" name="数组作为参数传递给方法" comment="" />
       <created>1583717212374</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -191,7 +196,35 @@
       <option name="project" value="LOCAL" />
       <updated>1583830693496</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除代码">
+      <created>1583979237309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583979237309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="数组作为参数传递给方法">
+      <created>1583981173677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583981173677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="数组作为参数传递给方法">
+      <created>1583981410953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583981410953</updated>
+    </task>
+    <task id="LOCAL-00005" summary="数组作为参数传递给方法">
+      <created>1583981459729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583981459729</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -205,6 +238,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.32365146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -215,16 +249,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20057307" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20057307" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3281471" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.39660057" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.39541548" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.20600858" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32863188" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32808024" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -278,7 +312,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="删除代码" />
+    <MESSAGE value="数组作为参数传递给方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组作为参数传递给方法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Test3.java" />
@@ -346,13 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -371,6 +400,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
