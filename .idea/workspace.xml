@@ -113,7 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584523109671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584523189993" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -131,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2">
+  <component name="RunManager" selected="Application.Demo1">
     <configuration name="ArrayDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDemo1" />
       <module name="net.jsxdt.liqing.liqing.main" />
@@ -169,8 +169,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.ArrayDemo1" />
         <item itemvalue="Application.MethodDemo4" />
         <item itemvalue="Application.MethodDemo3" />
