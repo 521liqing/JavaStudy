@@ -10,7 +10,7 @@ public class ArrayDemo3 {
         s[1][2] = new String("!");
 
         for (String[] Strings : s) {
-            for (String anString : Strings){
+            for (String anString : Strings) {
                 System.out.print(anString + " ");
             }
         }
